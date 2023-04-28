@@ -9,5 +9,6 @@ Reference paper: Classification of Firewall Log Files with Multiclass Support Ve
 The Github folder includes following files:
 1. Summary from the reference paper
 2. Following Data Pipeline process includes Data collection, Data cleansing, EDA, Training (Cross validation), Testing and Evaluation 
+  - Seperated files for each training model
 3. Summary the results and compare between each training models
 4. Suggestions on how to improve over the reference paper
